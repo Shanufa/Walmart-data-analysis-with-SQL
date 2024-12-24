@@ -1,0 +1,1 @@
+SELECT * FROM walmartsales1.sales;
